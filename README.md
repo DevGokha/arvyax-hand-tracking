@@ -35,3 +35,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 python hand_danger_detection.py
+"# arvyax-hand-tracking" 
