@@ -36,3 +36,5 @@ pip install -r requirements.txt
 
 python hand_danger_detection.py
 "# arvyax-hand-tracking" 
+
+Save as something like: `[arvyax_hand_poc_demo.mp4](https://drive.google.com/file/d/1SC27_YZ7QZUSracZKwRpvY0qkgkvf1iZ/view?usp=drive_link)`.
